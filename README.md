@@ -1,4 +1,4 @@
-<h1 align="center">Financial Analyst & Data Scientist</h1>
+<h1 align="center">Data Scientist & Financial Analyst</h1>
 <h2 align="center">Instructor at IronHack Madrid</h2>
 
 <h3 align="left">Reach me out!:</h3>
