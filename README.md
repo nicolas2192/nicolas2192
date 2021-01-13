@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
+<h2 align="center">Financial Analyst & Data Scientist</h2>
+<h3 align="center">Instructor at IronHack Madrid</h3>
+
 
 <!--
 **nicolas2192/nicolas2192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Know about my experiences [https://nicolas2192.github.io/](https://anaezes.github.io/)
 
 Here are some ideas to get you started:
 
