@@ -1,10 +1,15 @@
-<h1 align="center">Hi there! 👋</h1>
-<h2 align="center">Financial Analyst & Data Scientist</h2>
-<h3 align="center">Instructor at IronHack Madrid</h3>
+<h1 align="center">Financial Analyst & Data Scientist</h1>
+<h2 align="center">Instructor at IronHack Madrid</h2>
 
+<h3 align="left">Reach me out!:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nicolas-cortinas-rozic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ana-santos-556807130" height="30" width="40" /></a>
+</p>
 
 <!--
 **nicolas2192/nicolas2192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 align="center">Hi there! 👋</h1>
 
 Know about my experiences [https://nicolas2192.github.io/](https://anaezes.github.io/)
 
