@@ -1,5 +1,4 @@
 <h1 align="center">Data Engineer & Financial Analyst</h1>
-<h2 align="center">Blockchain enthusiast</h2>
 
 <h3 align="left">Reach me out!:</h3>
 <p align="left">
